@@ -268,4 +268,4 @@ Sau khi setup xong:
    ```
 6. Truy cập: http://localhost:8000/docs để test API
 
-**Happy CI/CD! **
+**Practice CI/CD well ! **
